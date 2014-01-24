@@ -28,7 +28,7 @@ public class BatchTransactionImport {
       Batch batch = new Batch();
       batch.setBatchStatusId("Waiting");
       batch.setBatchTypeId("TransactionImport");
-      batch.setCompanyId(49275);
+      batch.setCompanyId( );
       //NOTE: CompanyId can be obtained from the Admin Console, Organization Tab by
       //      selecting the Company Name then copying the digits at the end of the URL string.
       //      for example: https://admin-development.avalara.net/AvaTax/Company/CompanyEdit.aspx?id=12345
