@@ -43,3 +43,9 @@
 <ul>
   <li>There is a .csv import transaction file <strong>batchservicetest.csv</strong> in the root directory  that can be used for your import document test. You can modify this file in any way that suites your business needs. See <a href="http://help.avalara.com/000_AvaTax_Calc/000AvaTaxCalc_User_Guide/090_Tools/090_Import_Data/9G0" target="_blank">Importing Transactions</a> for more information.</li>
 </ul>
+<h4><strong>Resources</strong><br />
+</h4>
+<p><strong>Developer API Documentation</strong> is located here: <a href="http://developer.avalara.com/api-docs" target="_blank">http://developer.avalara.com/api-docs</a></p>
+<p>The <strong>Avalara AvaTax API Reference</strong> is located here: <a href="http://developer.avalara.com/api-docs/avalara-avatax-api-reference" target="_blank">http://developer.avalara.com/api-docs/avalara-avatax-api-reference</a></p>
+<p>Find out what other developers are talking about on the <strong><em>Avalara Developer Community Forum</em></strong> located here: <a href="https://community.avalara.com/avalara/category_sets/developers" target="_blank">https://community.avalara.com/avalara/category_sets/developers</a></p>
+<p><strong>Frequently Asked Questions</strong> regarding all Avalara products is located here: <a href="https://help.avalara.com/" target="_blank">https://help.avalara.com/</a></p>
