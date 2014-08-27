@@ -1,4 +1,4 @@
-<p><strong>AvaTaxCalc-BatchSvcSOAP-Java</strong> is sample code that makes use of the AvaTax BatchSvc - java SOAP API. The sample demonstrates how a tax document can be imported in the Avalara Transaction Import format using a BatchSave method.
+<p><strong>AvaTaxCalc-BatchSvcSOAP-Java</strong> contains sample code that calls Avalara's Batch Service using a java SOAP API. The sample demonstrates how tax records can be imported using Avalara's <a href="http://help.avalara.com/000_AvaTax_Calc/000AvaTaxCalc_User_Guide/090_Tools/090_Import_Data/9G0/" target="_blank"> Transaction Import format.
   
   </p>
 <p><strong>Contents:</strong></p>
@@ -18,10 +18,6 @@
   <tr>
     <td><strong>/lib &nbsp;</strong></td>
     <td>Other required jar files </td>
-  </tr>
-  <tr>
-    <td><strong>/samples</strong></td>
-    <td>Sample APIs</td>
   </tr>
   <tr>
     <td><strong>/src</strong> &nbsp;</td>
